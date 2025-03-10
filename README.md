@@ -1,6 +1,6 @@
 # bookbot
 
-Bookbot is my first [Boot.dev](https://www.boot.dev) project !
+Bookbot is my first [Boot.dev](https://www.boot.dev) project!
 
 This app (coded in Python) does static analysis on text files.
 
